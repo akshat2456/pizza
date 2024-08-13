@@ -1,2 +1,2 @@
-# pizza
-Created with CodeSandbox
+# pizza project
+
